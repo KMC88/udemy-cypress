@@ -1,0 +1,19 @@
+{
+  "name": "cypress-automation-framework",
+  "version": "1.0.0",
+  "description": "cypress automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kieran McErlean",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.185",
+    "cypress": "^9.7.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

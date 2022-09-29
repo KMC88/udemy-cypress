@@ -1,0 +1,11 @@
+{
+
+    "baseUrl": "https://www.webdriveruniversity.com",
+    "chromeWebSecurity": false,
+
+
+    "env": {
+        "webdriveruni_homepage": "https://www.webdriveruniversity.com",
+        "webdriveruni_contactuspage": "http://www.webdriveruniversity.com/Contact-Us/contactus.html"
+    }
+}
